@@ -10,7 +10,7 @@ The complete project file is available through Google Drive because the workbook
 
 ## 🖼️ Dashboard Preview
 
-[YOUR UPLOADED SCREENSHOT WILL APPEAR HERE]
+[Advanture-woks.png]
 
 ## 🎯 Project Objective
 

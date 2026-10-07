@@ -10,7 +10,7 @@ The complete project file is available through Google Drive because the workbook
 
 ## 🖼️ Dashboard Preview
 
-![Adventure Works Sales & Profit Analysis Dashboard](Advanture-woks.png)
+![Adventure Works Sales & Profit Analysis Dashboard](https://drive.google.com/file/d/1PTr_wo4diQYik9bjtUyNY6dxxKzcsWgD/view?usp=drivesdk)
 
 ## 🎯 Project Objective
 
